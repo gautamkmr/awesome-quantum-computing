@@ -1,8 +1,8 @@
 # Awesome Quantum Computing
+
 A collaborative list of awesome Quantum computing resources and libraries. Feel free to contribute!
 
 ## Blog
-Quantum computing is hard in a way that a lot of background knowledge is needed to understand what's happening.
 
 * [Quantum computing for the very curious](https://quantum.country/qcvc) - A very approachable introduction. It's long as a web page but shorter than a book.
 
